@@ -1,0 +1,2 @@
+- [Version française](./cheatsheet-fr.md)
+- [English version](./cheatsheet-en.md)
