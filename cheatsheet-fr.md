@@ -67,3 +67,10 @@ cd build    # On se met dedans pour generer les fichiers
 cmake ../   # On genere un Makefile
 make        # On build
 ```
+
+## [Compiler Explorer](https://godbolt.org/)
+
+[Compiler Explorer](https://godbolt.org/) est un site web open-source par
+Matt Godbolt qui vous permet d'editer, compiler, et executer du code C++
+rapidement. Un veritable service public, vous pouvez meme choisir quel
+compilateur/toolchain utiliser et jeter un oeil a l'assembleur genere.

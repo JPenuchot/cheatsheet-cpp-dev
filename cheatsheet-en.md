@@ -75,3 +75,10 @@ cd build    # Change to that directory
 cmake ../   # Generating the Makefile
 make        # Building the default Make target
 ```
+
+## [Compiler Explorer](https://godbolt.org/)
+
+[Compiler Explorer](https://godbolt.org/) is an open-source website by
+Matt Godbolt that allows you to quickly edit, compile, and run C++ code.
+Public service at its best, you can even select which compiler/toolchain to use
+and take a look at the generated assembly.
