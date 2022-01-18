@@ -82,3 +82,9 @@ make        # Building the default Make target
 Matt Godbolt that allows you to quickly edit, compile, and run C++ code.
 Public service at its best, you can even select which compiler/toolchain to use
 and take a look at the generated assembly.
+
+## Mircosoft Visual Studio
+
+You might prefer using [Clang on Visual Studio](
+https://docs.microsoft.com/en-us/cpp/build/clang-support-msbuild?view=msvc-160)
+instead of MSVC. Its C++17/20 support is far superior
